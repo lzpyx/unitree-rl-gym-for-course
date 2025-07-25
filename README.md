@@ -23,10 +23,6 @@
 
 Please refer to [setup.md](/doc/setup_en.md) for installation and configuration steps.
 
-**For Google Colab users**: 
-- Check out our [Colab Setup Guide](/doc/setup_colab_en.md) for easy setup in Google Colab environment.
-- For permanent package installation (recommended), see our [Permanent Colab Setup Guide](/doc/setup_colab_permanent_en.md).
-
 ## 🔁 Process Overview
 
 The basic workflow for using reinforcement learning to achieve motion control is:
